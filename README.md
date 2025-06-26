@@ -110,9 +110,7 @@ See `finbot` for more sample responses and ROUGE evaluations.
 - Add additional evaluation metrics (e.g., BLEU, BERTScore) for a comprehensive assessment.
 - Implement automated testing with GitHub Actions.
 
-## License
 
-[MIT License](LICENSE)
 
 ## Acknowledgments
 
